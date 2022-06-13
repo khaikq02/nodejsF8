@@ -1,0 +1,34 @@
+{
+  "name": "nodejsf8",
+  "version": "1.0.0",
+  "description": "node js with F8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaikq02/nodejsF8.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs",
+    "build",
+    "a",
+    "blog"
+  ],
+  "author": "Wiliam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaikq02/nodejsF8/issues"
+  },
+  "homepage": "https://github.com/khaikq02/nodejsF8#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
+  }
+}
