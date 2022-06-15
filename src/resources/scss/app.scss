@@ -1,0 +1,20 @@
+@import 'variables';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  color: #000;
+}
+
+h1 {
+  color: $green-color;
+}
+
+h2 {
+  color: pink;
+}
